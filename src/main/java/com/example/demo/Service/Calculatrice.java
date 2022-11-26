@@ -17,7 +17,6 @@ public class Calculatrice {
 
     public int multiplication(Integer a, Integer b){
         Integer resultat =  a * b;
-        System.out.println("voici le resultat" + resultat + "");
         return resultat;
     }
 
